@@ -8,5 +8,5 @@ tional experiments examine the impact of IMU noise, Earth’s rotation, and the 
 effect on PVA accuracy, each of which has a different level of influence on the results.
 
 ## Results
-![](images/2D_trajectory_comparison.jpg)
-![](images/2D_trajectory_comparison.jpg)
+![](images/2D_trajectory_comparison.png)
+![](images/2D_trajectory_comparison.png)
