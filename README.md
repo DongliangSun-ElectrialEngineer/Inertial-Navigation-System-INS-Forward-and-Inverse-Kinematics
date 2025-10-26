@@ -9,4 +9,4 @@ effect on PVA accuracy, each of which has a different level of influence on the 
 
 ## Results
 ![](images/2D_trajectory_comparison.png)
-![](images/2D_trajectory_comparison.png)
+![](images/3D_trajectory_comparison.png)
